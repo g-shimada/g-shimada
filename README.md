@@ -1,4 +1,4 @@
-[![g-shimada's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-shimada)](https://github.com/anuraghazra/github-readme-stats)
+[![g-shimada's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-shimada)]
 
 ## 🌱 Skills
 ### Languages & Frameworks
